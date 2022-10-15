@@ -3,6 +3,4 @@ WORKDIR /app
 COPY . .
 RUN npm install
 EXPOSE 8000
-ENV MONGO_INITDB_ROOT_USERNAME=user
-ENV MONGO_INITDB_ROOT_PASSWORD=password
 CMD [ "npm", "start" ]
