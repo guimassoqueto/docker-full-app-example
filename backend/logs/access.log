@@ -1,0 +1,2 @@
+::ffff:192.168.48.1 - - [14/Oct/2022:17:29:32 +0000] "GET / HTTP/1.1" 404 139 "-" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:105.0) Gecko/20100101 Firefox/105.0"
+::ffff:192.168.48.1 - - [14/Oct/2022:17:29:37 +0000] "GET /goals HTTP/1.1" 200 12 "-" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:105.0) Gecko/20100101 Firefox/105.0"
