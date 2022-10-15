@@ -4,5 +4,5 @@ up:
 down:
 	docker compose down
 
-down-volumes:
+dv:
 	docker compose down -v
